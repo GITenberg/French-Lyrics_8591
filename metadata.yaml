@@ -1,0 +1,27 @@
+_repo: French-Lyrics_8591
+contributor:
+  creator:
+    editor:
+      agent_name: Canfield, Arthur Graves
+      birthdate: 1859
+      deathdate: 1947
+      gutenberg_agent_id: '2818'
+      url: http://www.gutenberg.org/2009/agents/2818
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8591'
+language:
+- fr
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry'
+- !lcsh 'Lyric poetry'
+- !lcc 'PQ'
+title: French Lyrics
+url: http://www.gutenberg.org/ebooks/8591
